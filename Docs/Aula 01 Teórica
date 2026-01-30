@@ -43,7 +43,7 @@
    Access não é seguro, deve tomar bastante cuidado com ele.
 
    Principais software de banco de dados existentes no mercado - Atuais, livres ou com custo bem baixo:
-        MySQL                PostgreSQL              MariaDB            mongoDB
+        MySQL                PostgreSQL              MariaDB            MongoDB
           |                       |                     |                  |
         Relacional           Relacional             Relacional        Não Relacional
 
@@ -53,10 +53,22 @@
     Não Relacional -> é um sistema de armazenamento de dados que não usa o modelo tradicional de tabelas,
      linhas e colunas típico dos bancos relacionais (SQL)
 
+     Bancos Relacionais|                      
+                       |-> MySQL
+                       |-> MariaDB
+                       |-> ORACLE
+                       |-> SQLServer
+                       |-> PostgreSQL
+
+    Bancos não Relacionas|
+                         |-> mongoDB
+                         |-> cassandra
+                         |-> redis
+                         |-> riak
+                         |-> Hbase.
 
    Principais software de banco de dados existentes no mercado - Atuais e Pagos:
    MySQL, SQLServer e ORACLE
 
 
-   
-   
+ 
