@@ -22,3 +22,7 @@
 
 ## EXEMPLO DE UMA ESPECIALIZAÇÃO
 -![alt text](./img/especializacao.png)
+
+
+## Finalizando o modelo conceitual do exercicio
+- ![alt text](./img/modelo%20conceitual%20exercicio%202.png)
