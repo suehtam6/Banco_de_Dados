@@ -13,6 +13,15 @@
 - ![alt text](./img/id01.png)
 - ![alt text](./img/idSim.png)
 
+## Cardionalidades diferentes
+
+### Cardionalidade conhecida por "Pé de galinha"
+- ![alt text](./img/cardinalidade.png)
+
+### Cardionalidade comum 
+- ![alt text](./img/cardionalidadeComum.png)
+
+
 ## O que fazer se existir duas entidades com o mesmo nome?
 
 - O certo a se fazer é uma especialização.
@@ -26,3 +35,4 @@
 
 ## Finalizando o modelo conceitual do exercicio
 - ![alt text](./img/modelo%20conceitual%20exercicio%202.png)
+
