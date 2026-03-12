@@ -34,5 +34,5 @@
 
 
 ## Finalizando o modelo conceitual do exercicio
-- ![alt text](./img/modelo%20conceitual%20exercicio%202.png)
+-![alt text](./img/modelo%20conceitual%20exercicio%202.png)
 
